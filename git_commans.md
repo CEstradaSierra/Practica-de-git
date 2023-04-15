@@ -14,6 +14,7 @@ git branch:Este comando se usa para obtener ramas
 
 git add:Este comando se usa para pasar un archivo a stage
 
+con git checkout cambie de rama de main a rama verde
 
 git commit:Este comando se usa para obtener hacer un commit y pasar del stage al commit
 
